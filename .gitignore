@@ -1,0 +1,11 @@
+# Obsidian files that change per device
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Obsidian trash
+.trash/
+
+# Mac and Windows junk files
+.DS_Store
+Thumbs.db

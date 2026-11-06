@@ -1,0 +1,83 @@
+{
+  "userTemplates": [],
+  "invertDrag3D": false,
+  "maxSamples3D": 80,
+  "renderTikzBlocks": false,
+  "dragSensitivity2D": 1,
+  "showWhatsNew": true,
+  "draft": {
+    "savedAt": 1792058424748,
+    "sourcePath": null,
+    "originalBlockText": null,
+    "data": {
+      "v": 4,
+      "dimension": false,
+      "documentSetup": true,
+      "title": "",
+      "size_x_cm": 10,
+      "size_y_cm": 9,
+      "show_axis_label": true,
+      "axis_label_x": "x",
+      "axis_label_y": "y",
+      "showAxis": true,
+      "showLargeGrid": true,
+      "showSmallGrid": false,
+      "gridSize": 5,
+      "majorTickNum": 8,
+      "xmin": "-0.5",
+      "xmax": "10",
+      "ymin": "-0.5",
+      "ymax": "5",
+      "zmin": "-5",
+      "zmax": "5",
+      "axis_style": "axes",
+      "coordinateSystem": "cartesian",
+      "axis_label_x_polar": "",
+      "axis_label_y_polar": "",
+      "axis_label_z": "z",
+      "rotationX": 30,
+      "rotationZ": 45,
+      "zoom3D": 1,
+      "boxAspect": "true",
+      "previewSize": 760,
+      "functions": [],
+      "functions3D": [],
+      "tools": [
+        {
+          "type": "region",
+          "color": "blue",
+          "conditions": [
+            "x + y <= 3"
+          ],
+          "conditionLabels": [
+            "(1)"
+          ],
+          "fill": false,
+          "fillOpacity": 0.25,
+          "fillPattern": "solid",
+          "outline": "none",
+          "thickness": "thin",
+          "constraintLines": true,
+          "label": "",
+          "id": "t0",
+          "name": "R1"
+        }
+      ],
+      "annotations": [],
+      "parameters": [
+        {
+          "name": "c",
+          "value": 9,
+          "min": 0,
+          "max": 15,
+          "step": 0.1
+        }
+      ],
+      "variables": "x, y",
+      "equalScale": false,
+      "showSlidersInNote": true
+    }
+  },
+  "whatsNewSeen": "4.2.0",
+  "dragTipSeen": true
+}

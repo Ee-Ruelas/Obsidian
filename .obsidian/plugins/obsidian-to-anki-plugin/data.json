@@ -1,0 +1,228 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "",
+      "Basic (and reversed card)": "",
+      "Basic (and reversed card)+": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Basic with LATEX": "",
+      "Basic-6a8cf": "",
+      "Basic-f7acf": "",
+      "Cloze": "",
+      "Cloze Latex": "((?:.+\\n)*(?:.*{.*)(?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))*)",
+      "Image Occlusion": "",
+      "Image Occlusion Enhanced": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (and reversed card)+": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Basic with LATEX": "Front",
+      "Basic-6a8cf": "Front",
+      "Basic-f7acf": "Front",
+      "Cloze": "Text",
+      "Cloze Latex": "Text",
+      "Image Occlusion": "Occlusion",
+      "Image Occlusion Enhanced": "ID (hidden)"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "Education": "",
+      "Excalidraw": "",
+      "Education/Classes": "",
+      "Education/Mathematics": "",
+      "Education/Classes/2025-2026": "",
+      "Education/Mathematics/Calculus": "",
+      "Education/Classes/2025-2026/Finals for 2025-2026": "",
+      "Education/Classes/2025-2026/HUM 4": "",
+      "Education/Classes/2025-2026/MAE 101B": "",
+      "Education/Classes/2025-2026/MAE 130": "",
+      "Education/Classes/2025-2026/MAE 143A": "",
+      "Education/Classes/2025-2026/MAE 130/Ink": "",
+      "Education/Classes/2025-2026/MAE 130/Ink/Drawing": "",
+      "Education/Classes/2025-2026/SE 160A": "",
+      "Anki": "",
+      "Education/Classes/2025-2026/MAE 104": "",
+      "Education/Classes/2025-2026/MAE 105": "",
+      "Education/Classes/2025-2026/MAE 107": "",
+      "Education/Classes/2025-2026/MAE 146A": "",
+      "Education/Classes/2025-2026/MAE 104/Attachments": "",
+      "Education/Classes/2025-2026/MAE 107/Attachments": "",
+      "Education/Classes/2025-2026/MAE 107/QUIZ 2 Practice": "",
+      "Education/Classes/2025-2026/MAE 146A/Attachments": "",
+      "Education/Classes/2025-2026/MAE 107/Attachments/Ink": "",
+      "Education/Classes/2025-2026/MAE 107/Attachments/Ink/Drawing": ""
+    },
+    "FOLDER_TAGS": {
+      "Education": "",
+      "Excalidraw": "",
+      "Education/Classes": "",
+      "Education/Mathematics": "",
+      "Education/Classes/2025-2026": "",
+      "Education/Mathematics/Calculus": "",
+      "Education/Classes/2025-2026/Finals for 2025-2026": "",
+      "Education/Classes/2025-2026/HUM 4": "",
+      "Education/Classes/2025-2026/MAE 101B": "",
+      "Education/Classes/2025-2026/MAE 130": "",
+      "Education/Classes/2025-2026/MAE 143A": "",
+      "Education/Classes/2025-2026/MAE 130/Ink": "",
+      "Education/Classes/2025-2026/MAE 130/Ink/Drawing": "",
+      "Education/Classes/2025-2026/SE 160A": "",
+      "Anki": "",
+      "Education/Classes/2025-2026/MAE 104": "",
+      "Education/Classes/2025-2026/MAE 105": "",
+      "Education/Classes/2025-2026/MAE 107": "",
+      "Education/Classes/2025-2026/MAE 146A": "",
+      "Education/Classes/2025-2026/MAE 104/Attachments": "",
+      "Education/Classes/2025-2026/MAE 107/Attachments": "",
+      "Education/Classes/2025-2026/MAE 107/QUIZ 2 Practice": "",
+      "Education/Classes/2025-2026/MAE 146A/Attachments": "",
+      "Education/Classes/2025-2026/MAE 107/Attachments/Ink": "",
+      "Education/Classes/2025-2026/MAE 107/Attachments/Ink/Drawing": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "Anki",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": true,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": []
+  },
+  "Added Media": [
+    "Lecture 9, Tuesday, April 28th-1779811621973.webp",
+    "Lecture 9, Tuesday, April 28th-1779811986305.webp",
+    "Lecture 9, Tuesday, April 28th-1777419186135.webp",
+    "Pasted image 20260421153832.png",
+    "Lecture 7, Tuesday, April 21st-1776812524580.webp",
+    "Pasted image 20260417004015.png",
+    "Pasted image 20260417003850.png",
+    "Pasted image 20260417003749.png"
+  ],
+  "File Hashes": {
+    "Education/Mathematics/Euler's Identity.md": "7c94b909481299c9abc332e28904a66f",
+    "Education/Mathematics/Euler's Formula.md": "a584fc26fdde69ab398394ba3c43bc28",
+    "Education/Mathematics/Calculus/Tabular Method.md": "8dbc817b34da691ebe4a9b250014da5a",
+    "Education/Mathematics/Calculus/Integration by Parts.md": "e7067a799de7604b5f71f53d35efc3c1",
+    "Education/Classes/2025-2026/SE 160A/Final Prep.md": "f7d33afdab7789dfe4b17c76c3e95ce1",
+    "Education/Classes/2025-2026/MAE 143A/Untitled.md": "428f98323802c0b96bf35f42ec143a8c",
+    "Education/Classes/2025-2026/MAE 143A/Laplace Transform.md": "45fe813247158a513948f53b26d04178",
+    "Education/Classes/2025-2026/MAE 130/March 6.md": "96811af35be91dd7381c630ff2cb6db0",
+    "Education/Classes/2025-2026/MAE 130/March 4.md": "fec70d39b7a001e0d31746d0996f212f",
+    "Education/Classes/2025-2026/MAE 130/March 2nd.md": "75ed326eb34b443d8da34950405eec1d",
+    "Education/Classes/2025-2026/MAE 130/March 13.md": "6a75707990a51fb91668d20284d0d74a",
+    "Education/Classes/2025-2026/MAE 130/March 11.md": "ec28b81155eb3d2fa9cf4248dd3f8d3e",
+    "Education/Classes/2025-2026/MAE 130/January 28th.md": "c93384f85b870ecbb436d1b4fbde2a1a",
+    "Education/Classes/2025-2026/MAE 101B/March 13 (Friday).md": "4a89812facca6cc574704a71faf66f07",
+    "Education/Classes/2025-2026/MAE 101B/March 11 (Wednesday).md": "e1e507b6689f77c34defee500271d909",
+    "Education/Classes/2025-2026/MAE 101B/HW 7 Review.md": "3c2b67c66766ca3c02eabb740122e1d8",
+    "Education/Classes/2025-2026/HUM 4/Woodsworth.md": "62ec45170fd0713880b1a272a10be86b",
+    "Education/Classes/2025-2026/HUM 4/Voltaire.md": "523d68888265866b67aacd6ad74a0f68",
+    "Education/Classes/2025-2026/HUM 4/Rousseau.md": "1bcbf6994266dc012b37374554392ac9",
+    "Education/Classes/2025-2026/HUM 4/Olaudah Equiano.md": "36872d3e5f8f4a99d0778e27efdec011",
+    "Education/Classes/2025-2026/HUM 4/Essay 2.md": "0bc5ed01efab09e8f04a029b35e78f7a",
+    "Education/Classes/2025-2026/HUM 4/Essay 1.md": "be0e22827d9d6e6ac2bc6f20832f139a",
+    "Education/Classes/2025-2026/Finals for 2025-2026/MAE 101B.md": "4392ed4e34d4e3189a50b1e3493eaebc",
+    "Excalidraw/Drawing 2026-03-06 15.07.50.excalidraw.md": "2387c8f826644c7d641702f87ce594f0",
+    "Excalidraw/Drawing 2026-01-31 10.38.58.excalidraw.md": "c037269c01215c7bca295032b61a3ea7",
+    "Education/Classes/2025-2026/MAE 146A/Lecture 9, Tuesday, April 28th.md": "149c63605eaed37d640518386512ce0f",
+    "Education/Classes/2025-2026/MAE 146A/Lecture 7, Tuesday, April 21st.md": "c447d7353a6dfb46a49b4737b02de3dd",
+    "Education/Classes/2025-2026/MAE 146A/Lecture 6 Just joined.md": "6dee2b94ab380400ff8583deeefc4c90",
+    "Education/Classes/2025-2026/MAE 107/QUIZ 2 Practice/Practice for Root-finding Quiz 2.md": "aeff04ec94eef42dda19865220b412c3",
+    "Education/Classes/2025-2026/MAE 107/L13 May 14.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Education/Classes/2025-2026/MAE 107/L1 March 31st.md": "9f6e8bee7236776195b69e8e8991c885",
+    "Education/Classes/2025-2026/MAE 107/Attachments/April 21 2026-04-25 19.46.45.excalidraw.md": "dcadf02f6ca25596597e54930c3b9c35",
+    "Education/Classes/2025-2026/MAE 107/April 9th.md": "2509e92fb8cfc1f2bcf482a430463aff",
+    "Education/Classes/2025-2026/MAE 107/April 21.md": "b426998a2fdc415db96d028551b26116",
+    "Education/Classes/2025-2026/MAE 107/April 16th.md": "b75a6d1deecc04fdf55701f56a39a2ad",
+    "Education/Classes/2025-2026/MAE 107/April 14th.md": "2f8a2da3b85e9d2ef04eb9f2a979961e",
+    "Education/Classes/2025-2026/MAE 105/Study for MAE 105.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Education/Classes/2025-2026/MAE 105/HW 2 Temporary.md": "9a1e574f2d3142d9761d89b1d3f64346",
+    "Education/Classes/2025-2026/MAE 104/April 6th Zoom class.md": "9e1505c9513f7d8fb197858f0f9735f0",
+    "Education/Classes/2025-2026/MAE 104/April 10th Zoom class.md": "67f58aa6e60f91a9a03d7fde2c290073",
+    "Anki/MAE 143B Final Study.md": "80f48fad2974c4ebb9f45593c0f0a848"
+  },
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)+": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Basic with LATEX": [
+      "Front",
+      "Back"
+    ],
+    "Basic-6a8cf": [
+      "Front",
+      "Back",
+      "Extra",
+      "Source"
+    ],
+    "Basic-f7acf": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Cloze Latex": [
+      "Text",
+      "Back Extra"
+    ],
+    "Image Occlusion": [
+      "Occlusion",
+      "Image",
+      "Header",
+      "Back Extra",
+      "Comments"
+    ],
+    "Image Occlusion Enhanced": [
+      "ID (hidden)",
+      "Header",
+      "Image",
+      "Question Mask",
+      "Footer",
+      "Remarks",
+      "Sources",
+      "Extra 1",
+      "Extra 2",
+      "Answer Mask",
+      "Original Mask"
+    ]
+  }
+}

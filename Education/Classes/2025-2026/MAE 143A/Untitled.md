@@ -22,6 +22,8 @@ $k=0,\dots,N_{0}-1 \quad \Omega_{0}=\frac{2\pi}{N_{0}}$
 ### Example 1
 Problem: Compute the DFT of the signal {12,8,4}.
 Solution:
+<!--ID: 1773723550751-->
+
 
 $$
 
@@ -36,6 +38,8 @@ X[1] = 12e^{-j\Omega_{0}0} + 8e^{-j\Omega_{0}1}+4e^{j\Omega_{0}2}+e^{j\Omega_{0}
 \end{align}
 $$
 So...
+<!--ID: 1773723550753-->
+
 
 $$
 \begin{align}
@@ -52,6 +56,8 @@ $$
 ### DFT Matrix
 $$
 X[k] = \sum_{n=0}^{N_{0}-1} x[n]e^{-jk\Omega_{0}n},\quad  k=0,1,\dots,N_{0}-1,
+<!--ID: 1773723550754-->
+
 
 
 $$
@@ -78,6 +84,8 @@ x[2] \\
 \vdots \\
 x[N_{0}-1]
 \end{bmatrix}
+<!--ID: 1773723550755-->
+
 
 $$
 

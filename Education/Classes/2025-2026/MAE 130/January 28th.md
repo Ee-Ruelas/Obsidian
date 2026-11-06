@@ -10,5 +10,7 @@ $$
 General Solution of underdamped case:
 $$
 u(t) = e^{-5\omega_0 t}[C_1 \cos{(\omega_0t)} + C_2 \sin{(\omega_0t)}]
+<!--ID: 1773723550758-->
+
 
 $$

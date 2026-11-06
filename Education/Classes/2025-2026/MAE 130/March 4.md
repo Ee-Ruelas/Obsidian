@@ -1,4 +1,4 @@
-
+	
 # Example 1
 $$
 \begin{align}
@@ -11,6 +11,8 @@ u(t) = \frac{F\Delta t}{m\omega _{d}}e^-\zeta\omega_{0}t \sin(\omega_{d}t) \\
 f\Delta=10 \\
 u(t)=\frac{f\Delta t}{m\omega_{d}}e^{-\zeta \omega_{0}t} \sin(\omega_{d}t) \\
 \\
+<!--ID: 1773723550757-->
+
 
 \end{align}
 $$

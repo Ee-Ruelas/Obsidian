@@ -103,6 +103,8 @@ f(t) = F\cos(\omega t) \\
 u(t) = \int_{0}^{t}f(\tau)h(t-\tau)d\tau = \frac{F}{m\omega_{0}} \int_{0}^{t}\cos(\omega \tau)\sin(\omega_{0}(t-\tau))d\tau=\frac{F}{k-\omega^{2}m}[\cos(\omega t)-\cos(\omega_{0}t)] \\
 \omega < \omega_{0} 
 \end{align}
+<!--ID: 1773723550756-->
+
 
 $$
 

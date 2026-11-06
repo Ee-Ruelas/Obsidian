@@ -1,0 +1,28 @@
+{
+  "resultSeparator": " → ",
+  "layoutStyle": "TwoPanes",
+  "alternateRowColor": true,
+  "defaultRenderStyle": "SyntaxHighlight",
+  "hideLinesWithoutMarkupWhenEmitting": true,
+  "hideEmitterMarkupInInput": true,
+  "dollarSymbolCurrency": {
+    "symbol": "$",
+    "currency": "USD"
+  },
+  "yenSymbolCurrency": {
+    "symbol": "¥",
+    "currency": "JPY"
+  },
+  "provideSuggestions": true,
+  "suggestionsIncludeMathjsSymbols": false,
+  "numberFormat": "System",
+  "forceProcessAllFrontmatter": false,
+  "customCurrencySymbol": null,
+  "enableGreekAutoComplete": true,
+  "enableInlineNumerals": true,
+  "inlineResultTrigger": "#:",
+  "inlineEquationTrigger": "#=:",
+  "inlineEquationSeparator": " = ",
+  "provideInlineSuggestions": true,
+  "enableCrossNoteReferences": true
+}

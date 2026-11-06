@@ -1,0 +1,42 @@
+{
+  "latex-math:eval-latex-expression": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "latex-math:convert-units-latex-expression": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "latex-math:convert-sympy": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "latex-math:evalf-latex-expression": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ]
+}

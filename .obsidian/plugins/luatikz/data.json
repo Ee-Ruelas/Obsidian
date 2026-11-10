@@ -8,7 +8,7 @@
   "cacheEnabled": true,
   "extraPreamble": "",
   "customPreamble": "",
-  "mainFont": "",
+  "mainFont": "NewComputerModernMath",
   "hebrewFont": "",
   "arabicFont": "",
   "inlineLivePreviewEnabledByDefault": true,
